@@ -1,1 +1,2 @@
-# aws-tutorial-react
+# aws-tutorial-angular
+
